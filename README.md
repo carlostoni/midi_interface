@@ -1,6 +1,8 @@
 # midi_interface
 
-A new Flutter project.
+This Flutter code creates a graphical interface for a MIDI and macros control, featuring editable potentiometers and a 4x4 matrix of buttons represented by circles and squares. The data persists using the 'shared_preferences' package.
+
+![Capturar](https://github.com/carlostoni/midi_interface/assets/80012970/b9a2df3e-facc-4d37-ac86-b743dcbb3030)
 
 ## Getting Started
 
